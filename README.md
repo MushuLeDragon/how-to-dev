@@ -18,7 +18,7 @@ My way to develop nowadays FREE
 ## Database as a Service
 
 - [ElephantSQL (PostgreSQL)](https://www.elephantsql.com/ "ElephantSQL")
-- [MongoDB](https://www.mongodb.com/cloud "MongoDB")
+- [MongoDB (NoSQL)](https://www.mongodb.com/cloud "MongoDB")
 
 ## Hosting
 
