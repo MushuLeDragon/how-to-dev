@@ -20,8 +20,9 @@ My way to develop nowadays FREE
 - [ElephantSQL (PostgreSQL)](https://www.elephantsql.com/ "ElephantSQL")
 - [MongoDB (NoSQL)](https://www.mongodb.com/cloud "MongoDB")
 
-## Hosting
+## Platform as a Service - Hosting
 
 - AWS
 - Google Cloud Platform
 - Microsoft Asure
+- [Cloud Clever](https://www.clever-cloud.com/ "Cloud Clever") - Note: As a new user, you have 20€ on your personal account.
