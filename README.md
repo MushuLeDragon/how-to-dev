@@ -1,6 +1,6 @@
 # How To Dev
 
-My way to develop nowadays FREE
+My way to develop nowadays and cheaper
 - []( "")
 
 ## Logiciels de développement
