@@ -8,7 +8,7 @@ My way to develop nowadays and cheaper
 - [Visual Studio Code (Microsoft)](https://code.visualstudio.com/ "Visual Studio Code")
 - [Atom (GitHub)](https://atom.io/ "Atom")
 - [Sublime Text](https://www.sublimetext.com/ "Sublime Text")
-- [Notepad++](https://notepad-plus-plus.org/fr/ "Notepad++")
+- [Notepad++](https://notepad-plus-plus.org/ "Notepad++")
 
 ## Environnement de développement local
 
@@ -25,4 +25,5 @@ My way to develop nowadays and cheaper
 - AWS
 - Google Cloud Platform
 - Microsoft Asure
+- [Heroku](https://www.heroku.com/ "Heroku")
 - [Cloud Clever](https://www.clever-cloud.com/ "Cloud Clever") - Note: As a new user, you have 20€ on your personal account.
