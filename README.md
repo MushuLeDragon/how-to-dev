@@ -45,7 +45,7 @@ My way to develop nowadays and cheaper, inspirated from [kamranahmedse](https://
 
 #### Back
 - [PHP POO](https://github.com/MushuLeDragon/php-poo-tuto "PHP POO")
-- [Maven](https://github.com/MushuLeDragon/maven-tuto "Maven)
+- [Maven](https://github.com/MushuLeDragon/maven-tuto "Maven")
 
 #### DevOps
 - [Git](https://github.com/MushuLeDragon/git-tuto "Git")
