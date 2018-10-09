@@ -15,6 +15,16 @@ My way to develop nowadays and cheaper, inspirated from [kamranahmedse](https://
 - [WampServer](http://www.wampserver.com/ "WampServer")
 - [Laragon](https://laragon.org/ "Laragon")
 
+## Virtualisation
+
+Voici une liste de technoligies permettant la virtualisation. Ces technologies diffèrent des VM habituelles, elles s'utilisent via des fichiers de configuration ou des commandes  
+- [Docker](https://www.docker.com/products/docker-desktop "Docker")
+- [Vagrant](https://www.vagrantup.com/downloads.html "Vagrant")
+
+Ici on retrouvera une liste de ligiciels de virtualisation classique
+- [VirtualBox (gratuit)](https://www.virtualbox.org/ "VirtualBox")
+- [VMWare (licence)](https://my.vmware.com/en/web/vmware/downloads "VMWare") > Desktop & End-User Computing > [VMware Workstation Pro](https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/15_0 "VMware Workstation Pro")
+
 ## Database as a Service
 
 - [ElephantSQL (PostgreSQL)](https://www.elephantsql.com/ "ElephantSQL")
